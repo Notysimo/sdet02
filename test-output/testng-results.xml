@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="14756" started-at="2021-05-23T05:13:49 BOT" finished-at="2021-05-23T05:14:04 BOT">
+    <groups>
+    </groups>
+    <test name="java-sdet-02" duration-ms="14756" started-at="2021-05-23T05:13:49 BOT" finished-at="2021-05-23T05:14:04 BOT">
+      <class name="TestSecondChallenge">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:TestSecondChallenge@59494225]" name="SetUp" is-config="true" duration-ms="10302" started-at="2021-05-23T05:13:49 BOT" finished-at="2021-05-23T05:14:00 BOT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="SecondTest()[pri:0, instance:TestSecondChallenge@59494225]" name="SecondTest" duration-ms="4287" started-at="2021-05-23T05:14:00 BOT" finished-at="2021-05-23T05:14:04 BOT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondTest -->
+        <test-method status="PASS" signature="AfterSteps()[pri:0, instance:TestSecondChallenge@59494225]" name="AfterSteps" is-config="true" duration-ms="115" started-at="2021-05-23T05:14:04 BOT" finished-at="2021-05-23T05:14:04 BOT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSteps -->
+      </class> <!-- TestSecondChallenge -->
+    </test> <!-- java-sdet-02 -->
+  </suite> <!-- Default Suite -->
+</testng-results>
